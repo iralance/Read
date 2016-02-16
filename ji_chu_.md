@@ -23,9 +23,9 @@ var y =x +f
 
 //当然 return break continue除外后面会紧跟分号
 return
-ture;
+true;
 
-//解析为 return ; ture;
+//解析为 return ; true;
 
 //++ -- 例外
 x
